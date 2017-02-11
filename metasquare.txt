@@ -1,0 +1,22 @@
+
+
+
+LIST OF ALL 7x7 BOARDS
+
+
+
+
+
+NOTES
+
+Boards that the same except 1's are swapped with 0's and vice versa are only listed once.
+For example, of the two following 2x2 boards only the first is listed.
+
+1 0   0 1
+0 0   1 1
+
+
+
+DATA TABLE
+
+board width     number of legal boards     number of illegal boards     total number of boards
